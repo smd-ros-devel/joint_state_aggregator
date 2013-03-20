@@ -1,0 +1,17 @@
+<package>
+  <description brief="joint_state_aggregator">
+
+     joint_state_aggregator
+
+  </description>
+  <author>smp1</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/joint_state_aggregator</url>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+  <depend package="message_filters"/>
+
+</package>
+
+
